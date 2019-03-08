@@ -1,11 +1,20 @@
 {
 // PHP
 	// tag php
+	"php tag V-0": {
+		"prefix": "php",
+		"body": [
+			"<?php ",
+			"",
+			""
+		],
+	"description": "php tag V-1"
+	},
 	"php tag V-1": {
 		"prefix": "phpp",
 		"body": [
 			"<?php ?>"
-		]
+		],
 	"description": "php tag V-1"
 	},
 	"php tag V-1.1": {
@@ -14,15 +23,27 @@
 			"<?php",
 			"",
 			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
 			"?>"
-		]
+		],
 	"description": "php tag V-1.1"
 	},
+
 	"php tag V-2": {
 		"prefix": "phpi",
 		"body": [
 			"<?= ?>"
-		]
+		],
 	"description": "php tag V-2"
 	},
 	"php tag V-2.1": {
@@ -32,34 +53,40 @@
 			"",
 			"",
 			"?>"
-		]
+		],
 	"description": "php tag V-2.1"
 	},
+
 	// 2 tag php V-1
 	"2 php tag V-1": {
 		"prefix": "phpl",
 		"body": [
 			"<?php  : ?>",
 			"<?php  ; ?>"
-		]
+		],
 	"description": "2 php tag V-1"
 	},
+
 	// 2 tag php V-2
 	"2 php tag V-2": {
 		"prefix": "phpll",
 		"body": [
 			"<?php foreach( $ as $ ) : ?>",
 			"<?php endforeach ; ?>"
-		]
+		],
 	"description": "2 php tag V-2"
 	},
+
 	// php tag access array
 	"php tag untuk array": {
 		"prefix": "phppp",
 		"body": [
 			"<?= $ ['']; ?>"
-		]
+		],
 	"description": "php tag untuk array"
 	},
 
+
+	
 }
+
